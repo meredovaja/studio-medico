@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(246, 224, 255, 0.5);
+}
+.bold {
+     font-size: 50px;
+     color: rgb(63, 70, 197);
+     font-family: inherit;
+     text-align: center;
+}
+#mail {
+    font-family: monospace;
+   font-size: 30px;
+   align-items: center;
+}
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(123, 119, 120);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+#studio {
+    font-size: 20px;
+    color: rgb(16, 56, 200);
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(240, 248, 255, 0.5)
+}
+
+img {
+    position: relative;
+    align-content: center;
+
+}
+#contatti{
+    text-align: center;
+}
+#footer {
+    text-align: center;
+}
+#form {
+    text-align: center;
+    block-size: 200px;
+}
